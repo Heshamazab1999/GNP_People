@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "733881583180",
-    "project_id": "snapta-aab28",
-    "storage_bucket": "snapta-aab28.appspot.com"
+    "project_number": "1009414530663",
+    "project_id": "gnpapp-51d0c",
+    "storage_bucket": "gnpapp-51d0c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:733881583180:android:09138007ccfdc0e59656e9",
+        "mobilesdk_app_id": "1:1009414530663:android:f19c528cf81fabc36856c2",
         "android_client_info": {
           "package_name": "com.snapta.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "733881583180-mavn2assct9qj1bjct22tarhplfel8f5.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.snapta.app",
-            "certificate_hash": "5b59e950a4aa2b75c91b836360c8f3d203abd90d"
-          }
-        },
-        {
-          "client_id": "733881583180-15f54dlns2pk1mragkdaqjqegkkkuveq.apps.googleusercontent.com",
+          "client_id": "1009414530663-ht37srcsboamt7tm941bfig1l85oed7j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDtbM21ltZKTCBnAET28LkdmlLhpRt0zxM"
+          "current_key": "AIzaSyDjdYuC03SHhh82sRCB9LZpMTMMJIkoLBs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "733881583180-15f54dlns2pk1mragkdaqjqegkkkuveq.apps.googleusercontent.com",
+              "client_id": "1009414530663-ht37srcsboamt7tm941bfig1l85oed7j.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

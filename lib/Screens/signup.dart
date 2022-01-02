@@ -139,7 +139,7 @@ class _SignUpState extends State<SignUp> {
                                       padding: const EdgeInsets.only(top: 100),
                                       child: Center(
                                           child: Text(
-                                        "Snapta",
+                                        "GNP",
                                         style: GoogleFonts.pacifico(
                                             fontSize: 35,
                                             fontWeight: FontWeight.bold),

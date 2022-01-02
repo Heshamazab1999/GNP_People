@@ -61,7 +61,7 @@ class _ProfileState extends State<PublicProfile> {
               )),
         ),
         body: SingleChildScrollView(
-          child: StreamBuilder(
+          child: StreamBuilder<DocumentSnapshot<Map<String, dynamic>>>(
             stream: FirebaseFirestore.instance
                 .collection('user')
                 .doc(widget.peerId)
