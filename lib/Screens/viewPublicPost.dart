@@ -55,7 +55,7 @@ class _HomeState extends State<ViewPublicPost> {
             backgroundColor: appColorWhite,
             elevation: 0,
             title: Text(
-              "Snapta",
+              "Gnp",
               style: GoogleFonts.pacifico(
                   fontSize: 25,
                   fontWeight: FontWeight.bold,
